@@ -24,9 +24,8 @@ This project analyses billing and payment data to identify:
 
 - Python
 - Pandas
-- PostgreSQL
 - SQL
-- Power BI
+- Data Studio
 - Git/GitHub
 
 ## Key Deliverables
@@ -34,5 +33,5 @@ This project analyses billing and payment data to identify:
 1. Data cleaning pipeline
 2. Exploratory data analysis
 3. SQL analytical database
-4. Power BI executive dashboard
+4. Data Studio executive dashboard
 5. Business recommendations
